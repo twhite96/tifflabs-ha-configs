@@ -1,1 +1,1 @@
-# Configs
+# Home Assistant Configs
